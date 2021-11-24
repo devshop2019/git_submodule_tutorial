@@ -1,0 +1,3 @@
+[submodule "submodule_1"]
+	path = submodule_1
+	url = https://github.com/devshop2019/submodule_1.git
